@@ -1,11 +1,11 @@
 # http-cerver
 Http Server Writen in C++
 
-##About
+## About
 
 Simple Webserver using GNU Sockets.
 
-##Build Instructions
+## Build Instructions
 
 ```
 ~ git clone https://github.com/abdullahwaqar/http-cerver.git
@@ -13,7 +13,7 @@ Simple Webserver using GNU Sockets.
 ~ make
 ```
 
-##Run
+## Run
 
 `~ ./main 2005`
 
